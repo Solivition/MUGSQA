@@ -4,11 +4,11 @@
     <img src="media\MUGSQA_pipeline.png" alt="MUGSQA" style="width:100%; max-width:1200px;">
 </p>
 
-Official repository for <strong>MUGSQA: Novel Multi-Uncertainty-Based Gaussian Splatting Quality Assessment Method, Dataset, and Benchmarks</strong>. 🔗Paper link: [![arXiv](https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv)](https://arxiv.org/abs/2511.06830v2)
+Official repository for <strong>MUGSQA: Novel Multi-Uncertainty-Based Gaussian Splatting Quality Assessment Method, Dataset, and Benchmarks</strong>. 🔗Paper link: <a href="https://arxiv.org/abs/2511.06830v2"><img src="https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv" alt="arXiv" style="vertical-align: middle;"></a>
 
 
 ## Dataset
-We are currently uploading the dataset to Hugging Face. 🔗Dataset link: [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-d96902.svg)](https://huggingface.co/datasets/Solivition/MUGSQA)
+We are currently uploading the dataset to Hugging Face. 🔗Dataset link: <a href="https://huggingface.co/datasets/Solivition/MUGSQA"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-d96902.svg" alt="huggingface" style="vertical-align: middle;"></a>
 
 ## Benchmark
 The benchmark code will be released in this repository soon.
