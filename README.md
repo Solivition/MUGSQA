@@ -1,6 +1,6 @@
 # MUGSQA
 
-<a href="https://arxiv.org/abs/2511.06830v2"><img src="https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv" alt="arXiv" style="vertical-align: middle;"></a>
+<a href="https://arxiv.org/abs/2511.06830"><img src="https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv" alt="arXiv" style="vertical-align: middle;"></a>
 <a href="https://huggingface.co/datasets/Solivition/MUGSQA"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-d96902.svg" alt="huggingface" style="vertical-align: middle;"></a>
 
 <p align="left">
