@@ -1,0 +1,13 @@
+# Benchmark toolkit dependencies (calculate_metrics, finetune_metrics, compute_correlation)
+# Tested with Python 3.10 + CUDA 12.1.
+pyiqa>=0.1.10
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24
+pandas>=2.0
+openpyxl>=3.1
+scipy>=1.10
+scikit-learn>=1.3
+opencv-python>=4.8
+Pillow>=10.0
+tqdm>=4.65

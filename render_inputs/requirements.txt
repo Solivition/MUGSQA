@@ -1,0 +1,7 @@
+# Dependencies for the Blender-side scripts driven by call_blender.py.
+# These are needed by call_blender.py in the *host* Python environment;
+# scale_blender.py / render_blender.py run inside Blender's own bundled Python
+# and only need bpy + cv2 + Pillow, which ship with Blender 3.6.x.
+numpy>=1.24
+trimesh>=4.0
+plyfile>=1.0

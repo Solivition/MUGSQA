@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 The MUGSQA Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Note on scope:
+
+* This MIT license covers the code authored by the MUGSQA project — namely the
+  contents of `benchmark/`, `render_inputs/`, and `reconstruction/train_all.py`.
+
+* The **MUGSQA dataset itself** (rendered videos, reconstructed Gaussian point
+  clouds, and MOS annotations distributed via the HuggingFace dataset page) is
+  released under the Creative Commons Attribution-NonCommercial 4.0
+  International license (CC-BY-NC 4.0), https://creativecommons.org/licenses/by-nc/4.0/.
+
+* Files under `reconstruction/<method>/` are derivative works of upstream
+  Gaussian-Splatting repositories and inherit each upstream's license. See
+  `reconstruction/README.md` for details.
